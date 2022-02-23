@@ -5,3 +5,4 @@ We wanted to come up with innovative solution addressing this issue head on.
 We discovered that bees are pollinators that support the growth of trees, flowers, and other plants. This means they play a huge role in the continuation of biodiversity.
 
 Thus, we wanted to create something accessible for beekeepers to encourage them to keep on taking care of bees and to improve the quality of bees’ life.
+We created an app (using figma) and a html.website to introduce it.
