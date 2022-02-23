@@ -1,0 +1,464 @@
+body {
+  color: #2b1d0d;
+}
+
+h1 {
+  color: #ff9911;
+  font-size: 110px;
+  font-family: "Quicksand", sans-serif;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: "Quicksand", sans-serif;
+  color: #2b1d0d;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+/* 1st */
+.Welcomepage {
+  background-size: cover;
+  background-image: url("https://cdn.glitch.me/57a0688e-a7a2-41ba-895c-6043750f6a4f/WechatIMG12.jpeg?v=1639434825584");
+  padding-bottom: 90px;
+  padding-top: 60px;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.tagline {
+  margin-top: 1px;
+  color: #2b1d0d;
+  font-size: 30px;
+  font-family: "Quicksand", sans-serif;
+}
+
+.ctabutton {
+  text-decoration: none;
+  font-size: 50px;
+  border-radius: 100px;
+  background-color: #ff9911;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+}
+
+.ctabutton {
+  padding-top: 10px;
+}
+
+/* CSS de la 2ème page */
+
+.what_is_beelikepro {
+  position: relative;
+  padding-top: 85px;
+  padding-bottom:70px;
+  text-align: justify;
+  font-size: 23px;
+  color: #2b1d0d;
+  font-family: "Quicksand", sans-serif;
+}
+
+.title1 {
+  text-align: center;
+  padding-top: 30px;
+  color: #2b1d0d;
+}
+
+/* CSS de la 3ème page */
+.Steps {
+  background-size: cover;
+  background-image: url("https://cdn.glitch.me/d0defb0e-4228-42c8-a4a7-b1b1466d2b70%2Fabstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation.jpg?v=1639347208402");
+  font-size: 17px;
+  color: white;
+  padding-top:45px;
+  padding-bottom: 65px;
+}
+
+.Steps2 {
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+.Steps_title {
+  padding-top: 50px;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  color: #2b1d0d;
+  font-size: 45px;
+}
+
+.Steps_title2 {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  color: #2b1d0d;
+  font-size: 30px;
+}
+
+.first_line {
+  /* alignement de la première ligne des deux colonnes */
+  padding-top: 50px;
+  color: black;
+}
+
+img.align_left {
+  float: left;
+}
+
+.align_left {
+  text-align: justify;
+  color: #2b1d0d;
+}
+
+.Steps h3 {
+  color: #2b1d0d;
+}
+
+/* CSS de la 4er page */
+
+.show {
+  background-size: cover;
+  background-image: url("https://cdn.glitch.me/57a0688e-a7a2-41ba-895c-6043750f6a4f/Screen%20Shot%202021-12-15%20at%2011.52.10%20AM.png?v=1639565570046f");
+  font-size: 20px;
+  padding-top: 90px;
+  padding-bottom: 115px;
+}
+
+.container3mockup {
+  padding-top: 30px;
+  margin-left: 8px;
+}
+
+.titredemo1 {
+  text-align: justify;
+  font-family: "Quicksand", sans-serif;
+  font-size: 28px;
+  color: #2b1d0d;
+}
+
+.textedemo1 {
+  text-align: justify;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  padding-right: 50px;
+  color: #2b1d0d;
+}
+
+.titredemo2 {
+  text-align: justify;
+  font-family: "Quicksand", sans-serif;
+  font-size: 30px;
+}
+
+.textedemo2 {
+  text-align: justify;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+}
+
+/* CSS de la 5ème page */
+
+.avis2 {
+  padding-top: 60px;
+  text-align: center;
+  background-size: cover;
+  background-image: url("https://cdn.glitch.me/d0defb0e-4228-42c8-a4a7-b1b1466d2b70%2Fabstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation.jpg?v=1639347208402");
+  padding-bottom: 70px;
+}
+
+.titre2 {
+  text-align: center;
+  padding-top: 55px;
+  color: white;
+}
+.blockquote-wrapper {
+  display: flex;
+  padding: 0 20px;
+}
+
+.blockquote {
+  position: relative;
+  font-family: "Quicksand", sans-serif;
+  font-size: 17px;
+  color: black;
+  padding: 30px 0;
+  width: 100%;
+  max-width: 500px;
+  margin: 80px auto;
+  align-self: center;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  text-align: justify;
+}
+
+.blockquote:after {
+  position: absolute;
+  content: "”";
+  color: black;
+
+  font-weight: 800;
+  font-size: 10rem;
+  line-height: 0;
+  bottom: -43px;
+  right: 30px;
+}
+
+.CallToAction {
+  font-family: "Quicksand", sans-serif;
+  color: #492900;
+  font-size: 40px;
+  text-align: justify;
+  text-align: center;
+  padding: 0;
+}
+
+.button-primary2 {
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 100px;
+  background-color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: #ff9911;
+  font-family: "Quicksand", sans-serif;
+}
+
+.buttonposition2 {
+  padding-top: 110px;
+}
+
+.textUnderButton1 {
+  margin-top: 60px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 30px;
+  color: #2b1d0d;
+}
+
+.textUnderButton2 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  color: #2b1d0d;
+}
+
+nav {
+  width: 100%;
+  margin: 0px auto 0px auto;
+  background-color: #ff9911;
+  top: 0px;
+  overflow: hidden;
+  position: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff9f2;
+  border-bottom: 0px solid;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 1px 1px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+nav a:hover {
+  background-color: #fff9f2;
+  color: #ff9911;
+}
+
+nav a.active {
+  background-color: #fff9f2;
+  color: #ff9911;
+}
+
+#menu-elements {
+  margin-top: 22px;
+  margin-bottom: 0px;
+}
+
+/* start price*/
+
+.price_table {
+  padding: 50px 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.heading-title {
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #ff9911;
+  display: flex;
+  font-size: 65px;
+  justify-content: center;
+}
+.pricingTable {
+  border: 1px solid #ff9911;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
+  margin: 0 -15px;
+  text-align: center;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.pricingTable:hover {
+  border: 2px solid #ff9911;
+  margin-top: -30px;
+}
+
+.pricingTable .pricingTable-header {
+  padding: 30px 10px;
+}
+
+.pricingTable .heading {
+  display: block;
+  color: #2b1d0d;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 21px;
+}
+
+.pricingTable .pricing-plans {
+  padding-bottom: 25px;
+  border-bottom: 1px solid #ff9911;
+  color: #000;
+  font-weight: 900;
+}
+
+.pricingTable .price-value {
+  color: #ff9911;
+  display: block;
+  font-size: 25px;
+  font-weight: 800;
+  line-height: 35px;
+  padding: 0 10px;
+}
+
+.pricingTable .price-value span {
+  font-size: 80px;
+}
+
+.pricingTable .subtitle {
+  color: #ff9911;
+  display: block;
+  font-size: 15px;
+  margin-top: 15px;
+  font-weight: 100;
+}
+
+.pricingTable .pricingContent ul {
+  padding: 0;
+  list-style: none;
+  margin-bottom: 0;
+}
+
+.pricingTable .pricingContent ul li {
+  padding: 20px 0;
+  color: #2b1d0d;
+}
+
+.pricingTable .pricingContent ul li:nth-child(odd) {
+  background-color: #fff;
+}
+
+.pricingTable .pricingContent ul li:last-child {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.pricingTable .pricingTable-sign-up {
+  padding: 10px 0;
+}
+
+.pricingTable .btn-block {
+  width: 50%;
+  margin: 0 auto;
+  background: #ff9911;
+  border: 1px solid transparent;
+  padding: 10px 5px;
+  color: #fff;
+  text-transform: capitalize;
+  border-radius: 30px;
+  transition: 0.3s ease;
+  font-size: 20px;
+}
+
+.pricingTable:hover .btn-block {
+  background: #fff;
+  color: #ff9911;
+  border: 1px solid #FF9911;
+}
+
+@media screen and (max-width: 990px) {
+  .pricingTable {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .pricingTable {
+    margin: 0 0 30px 0;
+  }
+}
+@charset "utf-8";
+/* price */
+
+footer {
+  background-color: #ff9911;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 300;
+}
+
+.height {
+  height: 100vh;
+}
+
+.app-button {
+  width: 240px;
+  height: 58px;
+  border-radius: 10px;
+}
+
+.app-button span {
+  font-size: 18px;
+}
+
+.buttons {
+  display: grid;
+}
+
+.button {
+  background-color: #ff9911;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 160px;
+  margin-top:30px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: white;
+}
